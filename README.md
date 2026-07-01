@@ -135,7 +135,7 @@ Relationship:
 
 
 ## 📷 Dashboard Preview
-https://github.com/krishnagopi5022-tech/RideIt-Driver-Analysis/blob/main/RideIt%20Driver%20Analysis.png
+<img width="594" height="332" alt="RideIt Driver Analysis" src="https://github.com/user-attachments/assets/1698f737-352d-4434-9c4a-1bbdeb3f38c4" />
 
 
 
