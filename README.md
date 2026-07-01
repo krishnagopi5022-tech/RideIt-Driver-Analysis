@@ -135,7 +135,8 @@ Relationship:
 
 
 ## 📷 Dashboard Preview
-<img width="594" height="332" alt="RideIt Driver Analysis" src="https://github.com/user-attachments/assets/1698f737-352d-4434-9c4a-1bbdeb3f38c4" />
+<img width="606" height="337" alt="RideIt Analysis" src="https://github.com/user-attachments/assets/b0ac4487-76a6-4a67-a1d2-18b39a9190d6" />
+
 
 
 
